@@ -1,4 +1,4 @@
-<img src="https://github.com/Hpollina/Hpollina/header.png">
+<img src="https://github.com/HPollina/HPollina/blob/main/header.png">
 
 <!--### Hi there 👋
 
