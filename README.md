@@ -1,6 +1,6 @@
 <img src="https://github.com/Hpollina/Hpollina/header.png" alt="banner that says Heather Pollina">
 
-//### Hi there 👋
+<!--### Hi there 👋
 
 <!--
 **HPollina/HPollina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
