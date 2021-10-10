@@ -1,4 +1,4 @@
-<img src="https://github.com/Hpollina/Hpollina/header.png" alt="banner that says Heather Pollina">
+<img src="https://github.com/Hpollina/Hpollina/header.png">
 
 <!--### Hi there 👋
 
