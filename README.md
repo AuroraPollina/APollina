@@ -1,6 +1,5 @@
-<img src="https://github.com/HPollina/HPollina/blob/main/header.png">
 
-<!--### Hi there 👋
+### Hi there 👋 I'm Heather
 
 
 - 🔭 I’m currently working on creating an amazing portfolio here on github
