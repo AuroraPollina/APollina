@@ -8,6 +8,7 @@
 - 🤔 I’m looking for help with employment in the AI/ML field
 - 💬 Ask me about Data
 - 📫 Send me a message on LinkedIn: https://www.linkedin.com/in/heather-pollina/
+- 😄 Be my friend on Steam: techgirl
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love to cook!
 
