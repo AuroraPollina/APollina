@@ -3,8 +3,7 @@
 
 
 - 🔭 I’m currently working on creating an amazing portfolio here on github
-- 👯 I’m looking to collaborate on networking with those in the AI/ML and game dev field
-- 🤔 I’m looking to advance my position in the AI/ML field
+- 🤔 I love learning on how to apply AI to different areas of my life to make things smoother
 - 💬 Ask me about Data
 - 📫 Send me a message on LinkedIn: https://www.linkedin.com/in/aurora-pollina/
 - 😄 Be my friend on Steam: techgirl75
